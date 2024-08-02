@@ -4,9 +4,7 @@ Data Engineer - #SQL #Python #SSIS #SSDT #Pandas #SQL Server #Azure SQL Database
 
 • [Linkedin](https://www.linkedin.com/in/daniel-gaytan-montes-data-engineer)
 
-• [Gmail](engineer.gmdaniel@gmail.com)
-
-
+• [Gmail](mailto:engineer.gmdaniel@gmail.com)
 <!--
 **gmdaniel09/gmdaniel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
